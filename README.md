@@ -1,3 +1,7 @@
+DIAMONDS ![GHG](/pics/Diamond-01.jpg)
+
+----
+
 ## Introduction:
 
 A data visualisation of [company's sales report](https://docs.google.com/spreadsheets/d/1AihQsfoj4pWwWUZ2XYdwZ8emMg-PUCqy/edit?usp=share_link&ouid=100335606837757984063&rtpof=true&sd=true) using Power BI
