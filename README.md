@@ -10,7 +10,7 @@
 
 ## Why Diamonds:
 
-Diamonds are known for their extreme hardness, unmatched brilliance, and rich sentimental value. They are made of nearly 100% carbon atoms and are so durable that the only other mineral that can scratch a diamond's surface is another diamond.
+Extreme hardness, unrivalled brilliance, and high emotive worth are all attributes of diamonds. The only other mineral that can scratch a diamond's surface is another diamond because they are comprised almost entirely of carbon atoms.
 
 ---
 
