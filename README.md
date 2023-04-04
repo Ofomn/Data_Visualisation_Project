@@ -1,4 +1,6 @@
-DIAMONDS ![GHG](/pics/Diamond-01.jpg)
+DIAMONDS 
+![e40_1](https://user-images.githubusercontent.com/122539866/229672097-d4d94786-32ff-412d-8fa7-17f895e3a35e.png)
+
 
 ----
 
