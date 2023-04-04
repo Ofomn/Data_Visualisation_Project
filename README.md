@@ -8,9 +8,9 @@
 
 ----
 
-## Introduction:
+## Why Diamonds:
 
-A data visualisation of [company's sales report](https://docs.google.com/spreadsheets/d/1AihQsfoj4pWwWUZ2XYdwZ8emMg-PUCqy/edit?usp=share_link&ouid=100335606837757984063&rtpof=true&sd=true) using Power BI
+Diamonds are known for their extreme hardness, unmatched brilliance, and rich sentimental value. They are made of nearly 100% carbon atoms and are so durable that the only other mineral that can scratch a diamond's surface is another diamond.
 
 ---
 
