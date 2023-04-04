@@ -1,5 +1,5 @@
 DIAMONDS 
-![e40_1](https://user-images.githubusercontent.com/122539866/229672097-d4d94786-32ff-412d-8fa7-17f895e3a35e.png)
+<img width="200" alt="Diamond-01-1" src="https://user-images.githubusercontent.com/122539866/229676163-7e67d09b-81b4-4990-ad4d-5ff6e3770bbc.png">
 
 
 ----
