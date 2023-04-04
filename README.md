@@ -1,6 +1,6 @@
 DIAMONDS 
 
-<img width="250" alt="Diamond-01-1" src="https://user-images.githubusercontent.com/122539866/229676534-2d0ef712-8518-4956-bbce-57f94992505e.png">
+![diamond-500872_1920](https://user-images.githubusercontent.com/122539866/229676834-b90753ce-9369-4749-a618-515bd19c5a84.jpg)
 
 
 
