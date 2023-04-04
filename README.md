@@ -15,7 +15,7 @@ Extreme hardness, unrivalled brilliance, and high emotive worth are all attribut
 Diamond is also known to be the hardest known natural material on both the Vickers scale and the Mohs scale.
 
 There are the 4C's of Diamond, which are:
-- Diamond Cut
+> 💡 Diamond Cut
 - Diamond Color
 - Diamond Clarity
 - Diamond Carat
