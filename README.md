@@ -8,7 +8,7 @@
 
 ----
 
-## Why Diamonds:
+## Why Diamonds[![]:
 
 Extreme hardness, unrivalled brilliance, and high emotive worth are all attributes of diamonds. The only other mineral that can scratch a diamond's surface is another diamond because they are comprised almost entirely of carbon atoms.
 
