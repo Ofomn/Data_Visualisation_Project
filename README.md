@@ -39,13 +39,15 @@ The objective of this project is to analyze and understand patterns, trends, and
 
 The problem statement of this analysis is to identify the following:
 
-> 💡 Which factors have the greatest impact on the price of a diamond, and how can this information be used to inform pricing strategies in the diamond industry?
+ 💡 Which factors have the greatest impact on the price of a diamond, and how can this information be used to inform pricing strategies in the diamond industry?
 > 
-> 💡 How do different diamond characteristics, such as cut quality and color, affect customer preferences and purchase decisions?
+ 💡 How do different diamond characteristics, such as cut quality and color, affect customer preferences and purchase decisions?
 > 
-> 💡 If there a relationship between the carat weight of a diamond and its price, and if so, how strong is this relationship?
+ 💡 If there a relationship between the carat weight of a diamond and its price, and if so, how strong is this relationship?
 
 Overall the main goal is to gain insight and understand the prices and values of Diamonds.
+
+----
 
 ## The following steps will be taken to for in this project:
 - Cleansing data using power query
