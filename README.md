@@ -49,6 +49,12 @@ Overall the main goal is to gain insight and understand the prices and values of
 
 ----
 
+## Use Case:
+
+This research can be used for analysis and machine learning purposes, such as developing models to predict diamond prices or identifying factors that influence the value of a diamond. It can also be used to find patterns and trends in diamond qualities and pricing using exploratory data analysis. The dataset can also be used to inform business choices in the diamond sector, including pricing tactics, inventory control, and advertising campaigns. 
+
+---
+
 ## The following steps will be taken to for in this project:
 - Cleansing data using power query
 - Creating columns and measures
