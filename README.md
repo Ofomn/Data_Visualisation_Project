@@ -27,6 +27,8 @@ There are the 4C's of Diamond, which are:
 
 ## Objective:
 
+Studies have shown that diamond is said to e composed of **pure carbon**
+
 The objective of this project is to analyze and understand patterns, trends, and relationships between various diamond attributes and prices. This information can be used to inform business decisions in the diamond industry, such as pricing strategies, marketing campaigns, and inventory management. 
 
 ---
