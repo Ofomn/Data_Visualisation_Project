@@ -55,7 +55,7 @@ This research can be used for analysis and machine learning purposes, such as de
 
 ---
 
-## The following steps will be taken to for in this project:
-- Cleansing data using power query
+## Scop and Method:
+- Checking for 'Nulls' in the dataset using phyton.
 - Creating columns and measures
 - Creating visuals 
