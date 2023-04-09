@@ -27,7 +27,9 @@ There are the 4C's of Diamond, which are:
 
 ## Objective:
 
-Studies have shown that diamond is said to e composed of **pure carbon**
+Studies have shown that diamond is said to be composed of **pure carbon**. Diamond is also known to be a naturally occuring substance and the most popular **gemstone**.
+
+The high cost of marketing, the scarcity of fine quality stones, and the high demand for diamonds all contribute to their high price. It's just a matter of supply and demand.
 
 The objective of this project is to analyze and understand patterns, trends, and relationships between various diamond attributes and prices. This information can be used to inform business decisions in the diamond industry, such as pricing strategies, marketing campaigns, and inventory management. 
 
