@@ -63,8 +63,14 @@ This research can be used for analysis and machine learning purposes, such as de
 
 ----
 
-## Data Source:
-[Diamond Dateset from Kaggle](https://www.kaggle.com/datasets/hrokrin/the-largest-diamond-dataset-currely-on-kaggle)
+## Data Source and Dictionary:
+- [Diamond Dateset from Kaggle](https://www.kaggle.com/datasets/hrokrin/the-largest-diamond-dataset-currely-on-kaggle)
+- [Understanding Diamond Cut](https://www.lumeradiamonds.com/diamond-education/diamond-shape)
+- [Understanding Diamond Colour](https://www.lumeradiamonds.com/diamond-education/diamond-color)
+- [Understanding Diamond Clarity](https://4cs.gia.edu/en-us/diamond-clarity/) and [Diamond Clarity Guide](https://www.diamonds.pro/education/clarity/)
+- [10 grades of Eye-Clean](https://www.diamonds.pro/education/eye-clean-diamonds/)
+
+-----
 
 &copy; 2023 Ofomnbuk
 
