@@ -60,3 +60,12 @@ This research can be used for analysis and machine learning purposes, such as de
 - Import data into SMSS. Writing and using `SQL scripts` to create the fact and dimension table. 
 - Connecting data to `Power BI`.
 - Creating an `interactive data visualization`.
+
+----
+
+## Data Source:
+[Diamond Dateset from Kaggle](https://www.kaggle.com/datasets/hrokrin/the-largest-diamond-dataset-currely-on-kaggle)
+
+&copy; 2023 Ofomnbuk
+
+<!-- markdownlint-enable -->
