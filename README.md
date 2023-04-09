@@ -27,7 +27,7 @@ There are the 4C's of Diamond, which are:
 
 ## Idea:
 
-This project will show the total sales, total profits and product type of a company between two years (2021 and 2022)
+
 
 ---
 
