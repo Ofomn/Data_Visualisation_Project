@@ -55,7 +55,7 @@ This research can be used for analysis and machine learning purposes, such as de
 
 ---
 
-## Scop and Method:
+## Scope and Method:
 - Checking for `Nulls` in the dataset using `phyton`.
 - Import data into SMSS. Writing and using `SQL scripts` to create the fact and dimension table. 
 - Connecting data to `Power BI`.
