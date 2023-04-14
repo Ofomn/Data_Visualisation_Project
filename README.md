@@ -63,6 +63,10 @@ This research can be used for analysis and machine learning purposes, such as de
 
 ----
 
+## Draft Visualisation of the Diamond Cut Preference  of Customers
+
+
+
 ## Data Source and Dictionary:
 - [Diamond Dateset from Kaggle](https://www.kaggle.com/datasets/hrokrin/the-largest-diamond-dataset-currely-on-kaggle)
 - [Understanding Diamond Cut](https://www.lumeradiamonds.com/diamond-education/diamond-shape)
