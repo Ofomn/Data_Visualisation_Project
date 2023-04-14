@@ -65,6 +65,9 @@ This research can be used for analysis and machine learning purposes, such as de
 
 ## Draft Visualisation of the Diamond Cut Preference  of Customers
 
+<img width="602" alt="diaP1" src="https://user-images.githubusercontent.com/122539866/232170418-df29a5f9-5784-4a0c-ba92-9d06eab55b7d.PNG">
+
+-----
 
 
 ## Data Source and Dictionary:
