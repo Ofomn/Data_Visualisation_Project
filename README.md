@@ -69,12 +69,13 @@ This research can be used for analysis and machine learning purposes, such as de
 
 -----
 
-
+## Diamond Dashboard
 [Click to View the All Dashboard](https://github.com/Ofomn/Data_Visualisation_Project/files/11244894/PresentationDiamondBI.pdf)
 
+-----
 
 
-## Data Source and Dictionary:
+ 💡 ## Data Source and Dictionary:
 - [Diamond Dateset from Kaggle](https://www.kaggle.com/datasets/hrokrin/the-largest-diamond-dataset-currely-on-kaggle)
 - [Understanding Diamond Cut](https://www.lumeradiamonds.com/diamond-education/diamond-shape)
 - [Understanding Diamond Colour](https://www.lumeradiamonds.com/diamond-education/diamond-color)
