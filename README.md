@@ -65,7 +65,7 @@ This research can be used for analysis and machine learning purposes, such as de
 
 ## Draft Visualisation of the Diamond Total Sales by Cut
 
-<img width="602" alt="diaP1" src="https://user-images.githubusercontent.com/122539866/232170418-df29a5f9-5784-4a0c-ba92-9d06eab55b7d.PNG">
+<img width="613" alt="CutPNG" src="https://user-images.githubusercontent.com/122539866/232346944-647221af-6956-4b21-a0f4-b53ff05a654b.PNG">
 
 -----
 
