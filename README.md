@@ -70,6 +70,9 @@ This research can be used for analysis and machine learning purposes, such as de
 -----
 
 
+## [Click View Dashboard on all 4C's with relation to Total Sales]([PresentationDiamondBI.pdf](https://github.com/Ofomn/Ofomn-visualiztionwithpython/files/11244885/PresentationDiamondBI.pdf)
+)
+
 ## Data Source and Dictionary:
 - [Diamond Dateset from Kaggle](https://www.kaggle.com/datasets/hrokrin/the-largest-diamond-dataset-currely-on-kaggle)
 - [Understanding Diamond Cut](https://www.lumeradiamonds.com/diamond-education/diamond-shape)
