@@ -2,7 +2,7 @@
 
 
 
-![diamond-500872_1920](<img width="596" alt="DiamondIntro" src="https://user-images.githubusercontent.com/122539866/232346475-55813dbe-3aa2-4361-8b0b-a96012c3f468.PNG">)
+<img width="596" alt="DiamondIntro" src="https://user-images.githubusercontent.com/122539866/232346786-1e925358-00bf-4c58-b5e6-b61962cab6fe.PNG">
 
 
 
