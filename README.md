@@ -70,7 +70,7 @@ This research can be used for analysis and machine learning purposes, such as de
 -----
 
 ## Diamond Dashboard
-[Click to View the All Dashboard](https://github.com/Ofomn/Data_Visualisation_Project/files/11244894/PresentationDiamondBI.pdf)
+[Click to View the Dashboard](https://github.com/Ofomn/Data_Visualisation_Project/files/11244894/PresentationDiamondBI.pdf)
 
 -----
 
